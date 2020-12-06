@@ -1,4 +1,4 @@
-#Phone Number Validation 
+#Phone Number Validation for US Numbers
 s = input('Enter a phone number: ')  
 if '-' in s: 
     p=list(s)  
